@@ -4,22 +4,21 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E20&center=true&vCenter=true&width=435&lines=Master's+Student+in+CS+at+NYCU;Loves+LLMs%2C+Vision+%26+ML;Code.+Experiment.+Repeat.+" alt="Typing SVG" />
 </p> -->
----
+
 
 ### 🌠 About Me
 
-I'm a Master’s student in the **Department of Computer Science and Engineering** at **National Yang Ming Chiao Tung University (NYCU)**, Taiwan. 
+- I'm a Master’s student in the **Department of Computer Science and Engineering at NYCU**, Taiwan. 
+- Feel free to contact me at **ieenirene@gmail.com**.
 
-Feel free to contact me at **ieenirene@gmail.com**.
 
----
 
 ### 🔭 My research focuses on:
 - Large Language Models (LLMs)
 - Computer Vision
 - Machine Learning
 
----
+
 
 ### 🪐 What I Enjoy
 
@@ -29,7 +28,6 @@ Feel free to contact me at **ieenirene@gmail.com**.
 - Turning ideas into experiments
 
 
----
 ### 🚀 Languages and Tools
 - **Language**: C, C++, Python, SQL, HTML/CSS, Javascript, Flutter
 - **Libraries**: PyTorch, TensorFlow, Scikit-learn, OpenCV, BeautifulSoup, Selenium
