@@ -6,43 +6,37 @@
 </p> -->
 
 
-### 🌠 About Me
+## 🌠 About Me
 
-- I'm a Master’s student in the **Department of Computer Science and Engineering at NYCU**, Taiwan. 
+- A Master student in the **Department of Computer Science and Engineering at NYCU**, Taiwan. 
 - Feel free to contact me at **ieenirene@gmail.com**.
 
 
-
-### 🔭 My research focuses on:
+## 🔭 Research Focus
 - Large Language Models (LLMs)
 - Computer Vision
 - Machine Learning
 
 
-
-### 🪐 What I Enjoy
-
-- Writing clean and efficient code
+## 🪐 What I Enjoy
 - Building AI-powered applications
 - Learning new tools & frameworks
 - Turning ideas into experiments
 
 
-### 🚀 Languages and Tools
+## 🚀 Languages and Tools
 - **Language**: C, C++, Python, SQL, HTML/CSS, Javascript, Flutter
 - **Libraries**: PyTorch, TensorFlow, Scikit-learn, OpenCV, BeautifulSoup, Selenium
 - **Tools**: Git, Docker, Visual Studio, Android Studio
 
 
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <!-- ML / Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <!-- Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
