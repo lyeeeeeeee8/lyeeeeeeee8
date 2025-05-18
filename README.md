@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yi-En Li ! </h1>
+<h1 align="center">Hi, I'm Irene Li ! </h1>
 <!-- <h4 align="center">A passionate programmer and M.S. student in Computer Science</h4> -->
 
 <!-- <p align="center">
